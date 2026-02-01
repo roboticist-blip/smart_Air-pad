@@ -104,9 +104,9 @@ VL53L0X Sensor 2 (Right - Anchor C):
 ### Physical Placement
 
 ```
-     Sensor A (Anchor A)          Sensor C (Anchor C)
-           (0, 0)                      (140mm, 0)
-             ●━━━━━━━━━━━━━━━━━━━━━━━━━━●
+      Sensor A (Anchor A)          Sensor C (Anchor C)
+            (0, 0)                      (140mm, 0)
+              ●━━━━━━━━━━━━━━━━━━━━━━━━━━●
              │       Baseline: 14cm       │
              │                            │
              │         ↓ 10-30cm          │
