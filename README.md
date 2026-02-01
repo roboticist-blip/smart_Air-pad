@@ -2,7 +2,7 @@
 
 A real-time 2D position tracking system using two VL53L0X Time-of-Flight (ToF) distance sensors and trilateration geometry. Track pen movements in the air and visualize them on screen!
 
-![Air Pen System](https://via.placeholder.com/800x400?text=Air-Pen+Tracking+System)
+![Air Pen Prototype](images/Air-pen1.ipg)
 
 ---
 
