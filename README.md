@@ -36,7 +36,9 @@ A real-time 2D position tracking system using two VL53L0X Time-of-Flight sensors
 
 Smart Air-Pad is an innovative touchless interface that tracks the 2D position of a pen tip (or your finger) in real-time using dual VL53L0X ToF sensors. The system employs sophisticated multi-stage filtering to provide smooth, accurate tracking and visualization.
 
-🎥 ## ![Working Demo](https://drive.google.com/file/d/1q4hcmTeZ3vIXQN5xbYDWVvt8Seyzk97M/view?usp=sharing)
+## 🎥 Working Demo
+
+[![Air-Pen Working Demo](images/air_pen1.png)](https://drive.google.com/file/d/1q4hcmTeZ3vIXQN5xbYDWVvt8Seyzk97M/view)
 
 ### ✨ Key Features
 
