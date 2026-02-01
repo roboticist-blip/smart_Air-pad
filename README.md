@@ -131,7 +131,7 @@ VL53L0X Sensor 2 (Right - Anchor C):
 
 ```bash
 git clone https://github.com/yourusername/air-pen.git
-cd air-pen
+cd Air-pen
 ```
 
 ### 2. Install Python Dependencies
