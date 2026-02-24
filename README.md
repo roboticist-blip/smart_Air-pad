@@ -204,15 +204,15 @@ VL53L0X Sensor 2 (Right - Anchor C):
 
 ```
      Sensor A (0,0)              Sensor C (140mm,0)
-         ●━━━━━━━━━━━━━━━━━━━━━━━━━━━●
-         │    Baseline: 14cm          │
-         │                            │
-         │      ↓ 10-30cm ↓           │
-         │                            │
-         │         Pen/Finger         │
-         │            ●               │
-         │         (x, y)             │
-         └────────────────────────────┘
+           ●━━━━━━━━━━━━━━━━━━━━━━━━━━━●
+         │        Baseline: 14cm         │
+         │                               │
+         │         ↓ 10-30cm ↓           │
+         │                               │
+         │          Pen/Finger           │
+         │             ●                 │
+         │           (x, y)              │
+         └───────────────────────────────┘
          
      VALID TRACKING ZONE (shaded area)
 ```
